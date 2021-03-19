@@ -11,5 +11,3 @@ It's Ciel from the University of Hong Kong. Pleasure to meet ya! ✨
 - 📫 How to reach me: u3576776@connect.hku.hk
 - 🐋 View my blogs at my [website](https://wwwCielwww.github.io) ~
 - ⚡ Fun fact: Volume of a pizza is pizza!
-
-![Ciel's github stats](https://github-readme-stats.vercel.app/api?username=wwwCielwww&hide=contribs,prs,issues&count_private=true&show_icons=true&theme=highcontrast)

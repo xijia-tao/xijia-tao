@@ -1,8 +1,5 @@
-Hello there! It's Xijia from the University of Hong Kong.
-- 🔭 I’m a final year computer science undergraduate.
-- 🌱 My current research interests include LLMs, LMMs and AI4Science.
-- 📫 Feel free to connect with me via email.
-- ⚡ Fun fact: Volume of a pizza is pizza!
+- My recent research interests are 👀 MLLMs, 🧪 deep research agents, and ✨ diffusion large language models.
+- I have a white 🐾 cat and I love playing 👾 games. 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xijia-tao/xijia-tao/output/github-contribution-grid-snake-dark.svg">
